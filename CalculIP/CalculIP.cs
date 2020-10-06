@@ -23,7 +23,7 @@ namespace CalculIP
         /// Test de la contiguïté d'un masque de sous réseaux, exemple on ne peut pas écrire 255.254.255.0
         /// </summary>
         /// <param name="S_masque"></param>
-        /// <returns></returns>
+        /// <returns>Etat si masque OK / NOK </returns>
         public static bool TestMasqueContigu(string S_masque )
         {
             IPAddress masque = IPAddress.Parse(S_masque);

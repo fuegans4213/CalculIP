@@ -11,7 +11,7 @@ namespace CalculIP
     static class CalculIP
     {
         /// <summary>
-        /// Methode permettant de nettoyer un cahmp de Type TextBox
+        /// Methode permettant de nettoyer un champ de Type TextBox
         /// </summary>
         /// <param name="Champ">Le champ a nettoyer</param>
         public static void NettoyageChampTXT(TextBox TB_Champ)

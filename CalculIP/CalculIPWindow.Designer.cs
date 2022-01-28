@@ -296,7 +296,7 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Image = global::CalculIP.Properties.Resources.CSO;
+            this.pictureBox1.Image = global::CalculIP.Properties.Resources.Conformit;
             this.pictureBox1.Location = new System.Drawing.Point(5, 4);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(323, 98);
